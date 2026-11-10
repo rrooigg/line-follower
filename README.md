@@ -21,5 +21,8 @@ The robot uses its sensors to detect the red line on the floor. Then based on th
 
 # Results
 The video below demonstrates the robot successfully following the red path.
-https://github.com/user-attachments/assets/816f3a00-9037-491f-bb0e-fa189d63781d
+
+
+https://github.com/user-attachments/assets/aa089993-e916-4eed-967a-f681c7958735
+
 
